@@ -1,5 +1,7 @@
 # Quick application for learning purposes.
 
+api key is **not** premium
+
 <img src="./screenshots/Screenshot_180.png" />
 <img src="./screenshots/Screenshot_187.png" />
 <img src="./screenshots/Screenshot_181.png" />
